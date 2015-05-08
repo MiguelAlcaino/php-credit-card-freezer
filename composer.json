@@ -1,0 +1,8 @@
+{
+    "name": "directpayintl/php-credit-card-freezer",
+    "version": "1.0.0",
+    "dist": {
+        "url": "https://github.com/directpayintl/php-credit-card-freezer/archive/master.zip",
+        "type": "zip"
+    }
+}

@@ -1,6 +1,6 @@
 {
     "name": "miguelalcaino/php-credit-card-freezer",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "dist": {
         "url": "https://github.com/miguelalcaino/php-credit-card-freezer/archive/master.zip",
         "type": "zip"
